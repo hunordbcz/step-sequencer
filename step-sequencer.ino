@@ -111,7 +111,7 @@ void configure(long value) {
 
 void setup() {
   if (debug) {
-    //  Serial.begin(9600); // Print IR Commands
+      Serial.begin(9600); // Print IR Commands
   }
   irrecv.enableIRIn();
 
