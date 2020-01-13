@@ -1,6 +1,6 @@
 # step-sequencer
 
-  Step Sequencer with IR Remote Control - Adjustable Low/High Frequency, Volume and Speed - With 4 Potentiometers
+  Step Sequencer for Arduino Nano with IR Remote Control - Adjustable Low/High Frequency, Volume and Speed - With 4 Potentiometers
 
 ## Parts
 
