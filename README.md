@@ -1,8 +1,6 @@
 # step-sequencer
 
-## Abstract
-
-  Step Sequencer with IR Remote Control - Adjustable Low/High Frequency, Volume and Speed
+  Step Sequencer with IR Remote Control - Adjustable Low/High Frequency, Volume and Speed - With 4 Potentiometers
 
 ## Parts
 
