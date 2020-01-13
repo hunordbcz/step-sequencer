@@ -16,7 +16,8 @@
   Soldering<br>
   [IRremote library](https://www.arduinolibraries.info/libraries/i-rremote)<br>
   **Important:**<br>
-    In order to make the IRReceiver work with the tone() function, you have to change the following 2 lines in boarddefs.h ( Location: Arduino\libraries\IRremote-2.2.3 ):
+    In order to make the IRReceiver work with the tone() function, you have to change the following 2 lines in boarddefs.h
+    ( Location: Arduino\libraries\IRremote-2.2.3 ):
     
     From:
     
